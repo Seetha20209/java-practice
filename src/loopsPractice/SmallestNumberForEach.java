@@ -1,3 +1,5 @@
+package loopsPractice;
+
 public class SmallestNumberForEach {
     public static void main(String[] args) {
         int[] listOfNumbers = {20,29,60,62,9,8};

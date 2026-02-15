@@ -1,3 +1,5 @@
+package loopsPractice;
+
 public class SalaryCalculation {
     public static void main(String[] args) {
         //int days = 365;

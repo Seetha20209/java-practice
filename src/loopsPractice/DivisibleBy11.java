@@ -1,3 +1,5 @@
+package loopsPractice;
+
 public class DivisibleBy11 {
     public static void main(String[] args) {
 

@@ -1,3 +1,5 @@
+package loopsPractice;
+
 public class MobileData {
     public static void main(String[] args) {
         int totalDays = 30;

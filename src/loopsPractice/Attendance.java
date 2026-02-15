@@ -1,3 +1,5 @@
+package loopsPractice;
+
 public class Attendance {
     public static void main(String[] args) {
         int classes = 30;

@@ -1,3 +1,5 @@
+package loopsPractice;
+
 public class EMIs {
     public static void main(String[] args) {
         int totalEMIs = 24;

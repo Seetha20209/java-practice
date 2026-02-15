@@ -1,3 +1,5 @@
+package loopsPractice;
+
 public class StudentMarksAverage {
     public static void main(String[] args) {
         int[] marks = {45,67,80,99,25,30};

@@ -1,10 +1,12 @@
-public class SecuritySystem {
+package loopsPractice;
+
+public class Store {
     public static void main(String[] args) {
-        int totalIDs = 100;
+        int itemsTotal = 50;
         int total = 0;
 
-        for (int i = 1; i <= totalIDs ; i++) {
-            if(i%9==0){
+        for (int i = 1; i <= itemsTotal ; i++) {
+            if(i%10==0){
                 continue;
             }
             total += 1;

@@ -1,3 +1,5 @@
+package loopsPractice;
+
 public class TicketBookingSystem {
     public static void main(String[] args) {
         int totalTickets = 100;

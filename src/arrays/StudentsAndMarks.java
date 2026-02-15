@@ -1,3 +1,5 @@
+package arrays;
+
 public class StudentsAndMarks {
     public static void main(String[] args) {
         String[] names = {"Bob", "Bieber", "Jonathan"};
